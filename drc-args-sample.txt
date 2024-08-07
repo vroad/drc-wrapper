@@ -1,0 +1,4 @@
+--MCFilterType=M
+--MCPointsFile=/path/to/mic-calibration-file.txt
+--PSPointsFile=/path/to/target-curve.txt
+/path/to/align2/files/drc/48.0KHz/minimal-48.0.drc
